@@ -1,4 +1,4 @@
-# 8-Puzzle com Interface Gráfica e Resolução Por Mecanismos de Busca
+# 8-Puzzle, Resolução Por Mecanismos de Busca e Inteligencia Artificial
 
 Este projeto implementa o clássico quebra-cabeça 8-Puzzle (jogo dos 8) em Python, utilizando mecanismos de busca clássicos para encontrar a solução de forma **automática**. A interface gráfica é feita com `tkinter`, permitindo interagir manualmente ou observar a resolução passo a passo pelos algoritmos.
 

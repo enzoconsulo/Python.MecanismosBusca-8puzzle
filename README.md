@@ -34,8 +34,8 @@ Essa arquitetura modular permite comparar desempenho, profundidade de busca e ef
 
 1. Clone ou baixe este repositório e abra o terminal na pasta do projeto:
    ```bash
-   git clone <URL_DO_REPOSITÓRIO>
-   cd <PASTA_DO_PROJETO>
+   git clone https://github.com/enzoconsulo/Python.MecanismosBusca-8puzzle.git
+   cd Python.MecanismosBusca-8puzzle
 
 ## Como Usar
 Mover manualmente: clique na peça adjacente ao espaço vazio ou use as setas do teclado.

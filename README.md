@@ -6,6 +6,7 @@ Este projeto implementa o clássico quebra-cabeça 8-Puzzle (jogo dos 8) em Pyth
 
 - **Geração aleatória** de estados sempre solucionáveis.
 - **Movimentação manual** das peças via clique ou setas do teclado ( Neste caso os movimentos serão salvos em caminhos.txt, para ser feita uma analise).
+   - **Busca em Largura (BFS)**: explora o nível completo de cada profundidade antes de avançar.
 - **Embaralhar** para reiniciar o puzzle com nova configuração.
 - **Resolver automaticamente** utilizando três **mecanismos de busca**:
   - **Busca em Largura (BFS)**: explora o nível completo de cada profundidade antes de avançar.
